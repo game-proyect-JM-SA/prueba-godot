@@ -1,5 +1,4 @@
 res://default_env.tres
-res://wall.tscn
-res://Player.tscn
 res://mundo.tscn
-res://Player.gd
+res://Player.tscn
+res://wall.tscn

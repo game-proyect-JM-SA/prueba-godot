@@ -18,3 +18,5 @@ texture = ExtResource("2_kpjcp")
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]
 position = Vector2(-0.357635, -0.154877)
 shape = SubResource("1")
+
+[node name="Camera2D" type="Camera2D" parent="."]
