@@ -1,6 +1,6 @@
 extends CharacterBody2D  # Para Godot 4
 
-const SPEED = 150.0
+const SPEED = 69.0
 const JUMP_FORCE = -400.0
 const GRAVITY = 1600.0
 

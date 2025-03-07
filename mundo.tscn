@@ -6,10 +6,10 @@
 [node name="mundo" type="Node2D"]
 
 [node name="Player" parent="." instance=ExtResource("1")]
-position = Vector2(-123, 133)
+position = Vector2(88, 195)
 
 [node name="StaticBody2D2" parent="." instance=ExtResource("2")]
-position = Vector2(-145, 133)
+position = Vector2(24, 212)
 
 [node name="StaticBody2D4" parent="StaticBody2D2" instance=ExtResource("2")]
 position = Vector2(-10, 0)
@@ -24,7 +24,7 @@ position = Vector2(20, 0)
 position = Vector2(-20, 0)
 
 [node name="StaticBody2D3" parent="." instance=ExtResource("2")]
-position = Vector2(-95, 133)
+position = Vector2(74, 212)
 
 [node name="StaticBody2D4" parent="StaticBody2D3" instance=ExtResource("2")]
 position = Vector2(-10, 0)
@@ -39,7 +39,7 @@ position = Vector2(20, 0)
 position = Vector2(-20, 0)
 
 [node name="StaticBody2D4" parent="." instance=ExtResource("2")]
-position = Vector2(-45, 133)
+position = Vector2(124, 212)
 
 [node name="StaticBody2D4" parent="StaticBody2D4" instance=ExtResource("2")]
 position = Vector2(-10, 0)
@@ -69,7 +69,7 @@ position = Vector2(20, 0)
 position = Vector2(-20, 0)
 
 [node name="StaticBody2D5" parent="." instance=ExtResource("2")]
-position = Vector2(5, 133)
+position = Vector2(174, 212)
 
 [node name="StaticBody2D4" parent="StaticBody2D5" instance=ExtResource("2")]
 position = Vector2(-10, 0)
@@ -84,7 +84,7 @@ position = Vector2(20, 0)
 position = Vector2(-20, 0)
 
 [node name="StaticBody2D6" parent="." instance=ExtResource("2")]
-position = Vector2(55, 133)
+position = Vector2(224, 212)
 
 [node name="StaticBody2D4" parent="StaticBody2D6" instance=ExtResource("2")]
 position = Vector2(-10, 0)
@@ -99,7 +99,7 @@ position = Vector2(20, 0)
 position = Vector2(-20, 0)
 
 [node name="StaticBody2D7" parent="." instance=ExtResource("2")]
-position = Vector2(155, 133)
+position = Vector2(324, 212)
 
 [node name="StaticBody2D4" parent="StaticBody2D7" instance=ExtResource("2")]
 position = Vector2(-10, 0)
@@ -114,7 +114,7 @@ position = Vector2(20, 0)
 position = Vector2(-20, 0)
 
 [node name="StaticBody2D8" parent="." instance=ExtResource("2")]
-position = Vector2(205, 133)
+position = Vector2(374, 212)
 
 [node name="StaticBody2D4" parent="StaticBody2D8" instance=ExtResource("2")]
 position = Vector2(-10, 0)
@@ -129,7 +129,7 @@ position = Vector2(20, 0)
 position = Vector2(-20, 0)
 
 [node name="StaticBody2D9" parent="." instance=ExtResource("2")]
-position = Vector2(255, 133)
+position = Vector2(424, 212)
 
 [node name="StaticBody2D4" parent="StaticBody2D9" instance=ExtResource("2")]
 position = Vector2(-10, 0)
@@ -144,7 +144,7 @@ position = Vector2(20, 0)
 position = Vector2(-20, 0)
 
 [node name="StaticBody2D10" parent="." instance=ExtResource("2")]
-position = Vector2(305, 133)
+position = Vector2(474, 212)
 
 [node name="StaticBody2D4" parent="StaticBody2D10" instance=ExtResource("2")]
 position = Vector2(-10, 0)
