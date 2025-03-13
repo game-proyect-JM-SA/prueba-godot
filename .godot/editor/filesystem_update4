@@ -1,6 +1,6 @@
 res://default_env.tres
 res://mundo.tscn
-res://Player.gd
 res://Player.tscn
 res://wall.tscn
 res://main.tscn
+res://Player.gd

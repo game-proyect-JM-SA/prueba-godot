@@ -1,12 +1,13 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1741888652
-default_env.tres::Environment::1673375672630605853::1741888641::0::1::::<><>::
+::res://::1741898544
+default_env.tres::Environment::1673375672630605853::1741898515::0::1::::<><>::
 icon.png::CompressedTexture2D::6329350020622041669::1741368765::1741368856::1::::<><>::
-main.tscn::PackedScene::1187058754787548155::1741888641::0::1::::<><>::
-mundo.tscn::PackedScene::4878620858555575633::1741888640::0::1::::<><>::uid://drsyr0ts3qxau::::res://Player.tscn<>uid://chssdh5ntd466::::res://wall.tscn<>uid://cx1qsqa4qwsus::::res://Assets/Parallax/parallax-00.png<>uid://d02l7nnnfajd3::::res://Assets/Parallax/parallax-01.png<>uid://cqgs3aseyvj8m::::res://Assets/Parallax/parallax-02.png<>uid://cvngflsps17db::::res://Assets/Parallax/parallax-03.png<>uid://owlwdggvbxt3::::res://Assets/Parallax/parallax-04.png
-Player.gd::GDScript::-1::1741888637::0::1::::<>CharacterBody2D<>::
-Player.tscn::PackedScene::8391120102112656048::1741888641::0::1::::<><>::res://Player.gd<>uid://b0fkypq6l6nb1::::res://Assets/Main Characters/Virtual Guy.png
-wall.tscn::PackedScene::5302420750300802713::1741888641::0::1::::<><>::uid://bkfsjuq4ippvh::::res://Assets/piso.png
+main.tscn::PackedScene::1187058754787548155::1741898421::0::1::::<><>::
+mundo.tscn::PackedScene::4878620858555575633::1741898515::0::1::::<><>::uid://drsyr0ts3qxau::::res://Player.tscn<>uid://chssdh5ntd466::::res://wall.tscn<>uid://cx1qsqa4qwsus::::res://Assets/Parallax/parallax-00.png<>uid://cu7wamf0c4i1t::::res://pared.tscn<>uid://d02l7nnnfajd3::::res://Assets/Parallax/parallax-01.png<>uid://cqgs3aseyvj8m::::res://Assets/Parallax/parallax-02.png<>uid://cvngflsps17db::::res://Assets/Parallax/parallax-03.png<>uid://owlwdggvbxt3::::res://Assets/Parallax/parallax-04.png
+pared.tscn::PackedScene::6244014741261556879::1741896442::0::1::::<><>::uid://cmylef2rdgi2n::::res://Assets/Terrain/pared.png
+Player.gd::GDScript::-1::1741898515::0::1::::<>CharacterBody2D<>::
+Player.tscn::PackedScene::8391120102112656048::1741898421::0::1::::<><>::res://Player.gd<>uid://b0fkypq6l6nb1::::res://Assets/Main Characters/Virtual Guy.png
+wall.tscn::PackedScene::5302420750300802713::1741898421::0::1::::<><>::uid://bhiaj522roiwc::::res://Assets/Terrain/piso.png
 ::res://Assets/::1741871938
 20 Enemies.png::CompressedTexture2D::8051730273178817541::1741871897::1741871938::1::::<><>::
 a.jpg::CompressedTexture2D::6033798526018778579::1741369488::1741369492::1::::<><>::
@@ -294,8 +295,29 @@ water_8frames.png::CompressedTexture2D::4639960948784647021::1741871897::1741871
 confirmation_002.ogg::AudioStreamOggVorbis::7777474784561980657::1741871897::1741871937::1::::<><>::
 Hit.ogg::AudioStreamOggVorbis::3141499627829561529::1741871897::1741871937::1::::<><>::
 Jump.ogg::AudioStreamOggVorbis::71841936019873624::1741871897::1741871937::1::::<><>::
-::res://Assets/Terrain/::1741871938
+::res://Assets/Terrain/::1741895683
+pared.png::CompressedTexture2D::5665327892339203203::1741895635::1741895683::1::::<><>::
+piso.png::CompressedTexture2D::2894275301997207982::1741894556::1741894561::1::::<><>::
 Terrain (16x16).png::CompressedTexture2D::4867917153001881414::1741871897::1741871938::1::::<><>::
+::res://Assets/Terrain/piso_files/::1741894530
+f(1).txt::TextFile::-1::1741894522::0::1::::<><>::
+f(2).txt::TextFile::-1::1741894522::0::1::::<><>::
+f(3).txt::TextFile::-1::1741894523::0::1::::<><>::
+f(4).txt::TextFile::-1::1741894523::0::1::::<><>::
+f(5).txt::TextFile::-1::1741894523::0::1::::<><>::
+f(6).txt::TextFile::-1::1741894523::0::1::::<><>::
+f(7).txt::TextFile::-1::1741894526::0::1::::<><>::
+f(8).txt::TextFile::-1::1741894526::0::1::::<><>::
+f(9).txt::TextFile::-1::1741894527::0::1::::<><>::
+f(10).txt::TextFile::-1::1741894527::0::1::::<><>::
+f(11).txt::TextFile::-1::1741894527::0::1::::<><>::
+f(12).txt::TextFile::-1::1741894527::0::1::::<><>::
+f(13).txt::TextFile::-1::1741894527::0::1::::<><>::
+f(14).txt::TextFile::-1::1741894527::0::1::::<><>::
+f(15).txt::TextFile::-1::1741894527::0::1::::<><>::
+f(16).txt::TextFile::-1::1741894527::0::1::::<><>::
+f(17).txt::TextFile::-1::1741894527::0::1::::<><>::
+f.txt::TextFile::-1::1741894522::0::1::::<><>::
 ::res://Assets/Traps/::1741871897
 ::res://Assets/Traps/Arrow/::1741871938
 Hit (18x18).png::CompressedTexture2D::2467736969848282439::1741871897::1741871938::1::::<><>::

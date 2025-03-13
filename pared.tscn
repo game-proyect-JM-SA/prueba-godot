@@ -1,0 +1,16 @@
+[gd_scene load_steps=3 format=3 uid="uid://cu7wamf0c4i1t"]
+
+[ext_resource type="Texture2D" uid="uid://cmylef2rdgi2n" path="res://Assets/Terrain/pared.png" id="1_3nsdw"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_okrqy"]
+size = Vector2(24, 24)
+
+[node name="Node2D" type="StaticBody2D"]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+shape = SubResource("RectangleShape2D_okrqy")
+
+[node name="Pared" type="Sprite2D" parent="."]
+position = Vector2(0, 1.19209e-07)
+scale = Vector2(0.100427, 0.100427)
+texture = ExtResource("1_3nsdw")
