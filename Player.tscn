@@ -1,6 +1,6 @@
 [gd_scene load_steps=4 format=3 uid="uid://drsyr0ts3qxau"]
 
-[ext_resource type="Script" uid="uid://dm86nhwr0sf48" path="res://Player.gd" id="1"]
+[ext_resource type="Script" path="res://Player.gd" id="1"]
 [ext_resource type="Texture2D" uid="uid://cx5mxh3cd76h5" path="res://Assets/metalslug.png" id="2_kpjcp"]
 
 [sub_resource type="RectangleShape2D" id="1"]
@@ -20,3 +20,4 @@ position = Vector2(-0.357635, -0.154877)
 shape = SubResource("1")
 
 [node name="Camera2D" type="Camera2D" parent="."]
+position_smoothing_enabled = true

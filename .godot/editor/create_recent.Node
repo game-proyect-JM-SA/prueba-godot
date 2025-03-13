@@ -1,8 +1,8 @@
+AnimatedSprite2D
 Camera2D
 Sprite2D
 ParallaxLayer
 ParallaxBackground
 Node
-AnimatedSprite2D
 StaticBody2D
 CollisionShape2D
