@@ -1,12 +1,12 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1741881852
-default_env.tres::Environment::1673375672630605853::1741871971::0::1::::<><>::
+::res://::1741888652
+default_env.tres::Environment::1673375672630605853::1741888641::0::1::::<><>::
 icon.png::CompressedTexture2D::6329350020622041669::1741368765::1741368856::1::::<><>::
-main.tscn::PackedScene::-1::1741368765::0::1::::<><>::
-mundo.tscn::PackedScene::4878620858555575633::1741871971::0::1::::<><>::uid://drsyr0ts3qxau::::res://Player.tscn<>uid://chssdh5ntd466::::res://wall.tscn<>uid://cx1qsqa4qwsus::::res://Assets/Parallax/parallax-00.png<>uid://d02l7nnnfajd3::::res://Assets/Parallax/parallax-01.png<>uid://cqgs3aseyvj8m::::res://Assets/Parallax/parallax-02.png<>uid://cvngflsps17db::::res://Assets/Parallax/parallax-03.png<>uid://owlwdggvbxt3::::res://Assets/Parallax/parallax-04.png
-Player.gd::GDScript::-1::1741871897::0::1::::<>CharacterBody2D<>::
-Player.tscn::PackedScene::8391120102112656048::1741871971::0::1::::<><>::res://Player.gd<>uid://cx5mxh3cd76h5::::res://Assets/metalslug.png
-wall.tscn::PackedScene::5302420750300802713::1741871971::0::1::::<><>::uid://bkfsjuq4ippvh::::res://Assets/piso.png
+main.tscn::PackedScene::1187058754787548155::1741888641::0::1::::<><>::
+mundo.tscn::PackedScene::4878620858555575633::1741888640::0::1::::<><>::uid://drsyr0ts3qxau::::res://Player.tscn<>uid://chssdh5ntd466::::res://wall.tscn<>uid://cx1qsqa4qwsus::::res://Assets/Parallax/parallax-00.png<>uid://d02l7nnnfajd3::::res://Assets/Parallax/parallax-01.png<>uid://cqgs3aseyvj8m::::res://Assets/Parallax/parallax-02.png<>uid://cvngflsps17db::::res://Assets/Parallax/parallax-03.png<>uid://owlwdggvbxt3::::res://Assets/Parallax/parallax-04.png
+Player.gd::GDScript::-1::1741888637::0::1::::<>CharacterBody2D<>::
+Player.tscn::PackedScene::8391120102112656048::1741888641::0::1::::<><>::res://Player.gd<>uid://b0fkypq6l6nb1::::res://Assets/Main Characters/Virtual Guy.png
+wall.tscn::PackedScene::5302420750300802713::1741888641::0::1::::<><>::uid://bkfsjuq4ippvh::::res://Assets/piso.png
 ::res://Assets/::1741871938
 20 Enemies.png::CompressedTexture2D::8051730273178817541::1741871897::1741871938::1::::<><>::
 a.jpg::CompressedTexture2D::6033798526018778579::1741369488::1741369492::1::::<><>::
@@ -188,7 +188,7 @@ Melon.png::CompressedTexture2D::6825253914592812303::1741871897::1741871938::1::
 Orange.png::CompressedTexture2D::6718722301303521521::1741871897::1741871938::1::::<><>::
 Pineapple.png::CompressedTexture2D::2440468474396026492::1741871897::1741871938::1::::<><>::
 Strawberry.png::CompressedTexture2D::438126892709343686::1741871897::1741871938::1::::<><>::
-::res://Assets/Main Characters/::1741871938
+::res://Assets/Main Characters/::1741883730
 Mask Dude.png::CompressedTexture2D::2685676775669302365::1741871897::1741871938::1::::<><>::
 Mask.png::CompressedTexture2D::7187691453716204268::1741871897::1741871938::1::::<><>::
 Ninja Frog.png::CompressedTexture2D::5019152321926854049::1741871897::1741871938::1::::<><>::
@@ -196,6 +196,7 @@ Ninja.png::CompressedTexture2D::970134595558740831::1741871897::1741871938::1:::
 Orden de Animaciones.txt::TextFile::-1::1741871897::0::1::::<><>::
 Pink Man.png::CompressedTexture2D::3881047148033338300::1741871897::1741871938::1::::<><>::
 Pink.png::CompressedTexture2D::731736946643816428::1741871897::1741871937::1::::<><>::
+prueba.png::CompressedTexture2D::8092079375512827706::1741883706::1741883730::1::::<><>::
 Virtual Guy.png::CompressedTexture2D::4152114506387145848::1741871897::1741871938::1::::<><>::
 Virtual.png::CompressedTexture2D::4301473900479689034::1741871897::1741871937::1::::<><>::
 ::res://Assets/Menu/::1741871897
