@@ -1,6 +1,6 @@
 [gd_scene load_steps=49 format=3 uid="uid://drsyr0ts3qxau"]
 
-[ext_resource type="Script" uid="uid://dm86nhwr0sf48" path="res://Player.gd" id="1"]
+[ext_resource type="Script" path="res://Player.gd" id="1"]
 [ext_resource type="Texture2D" uid="uid://b0fkypq6l6nb1" path="res://Assets/Main Characters/Virtual Guy.png" id="2_dltrm"]
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_q3f0u"]

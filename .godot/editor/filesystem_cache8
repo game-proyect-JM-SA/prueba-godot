@@ -1,13 +1,13 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1741898544
-default_env.tres::Environment::1673375672630605853::1741898515::0::1::::<><>::
+::res://::1742065405
+default_env.tres::Environment::1673375672630605853::1741899167::0::1::::<><>::
 icon.png::CompressedTexture2D::6329350020622041669::1741368765::1741368856::1::::<><>::
-main.tscn::PackedScene::1187058754787548155::1741898421::0::1::::<><>::
-mundo.tscn::PackedScene::4878620858555575633::1741898515::0::1::::<><>::uid://drsyr0ts3qxau::::res://Player.tscn<>uid://chssdh5ntd466::::res://wall.tscn<>uid://cx1qsqa4qwsus::::res://Assets/Parallax/parallax-00.png<>uid://cu7wamf0c4i1t::::res://pared.tscn<>uid://d02l7nnnfajd3::::res://Assets/Parallax/parallax-01.png<>uid://cqgs3aseyvj8m::::res://Assets/Parallax/parallax-02.png<>uid://cvngflsps17db::::res://Assets/Parallax/parallax-03.png<>uid://owlwdggvbxt3::::res://Assets/Parallax/parallax-04.png
+main.tscn::PackedScene::1187058754787548155::1741899167::0::1::::<><>::
+mundo.tscn::PackedScene::4878620858555575633::1742065359::0::1::::<><>::uid://drsyr0ts3qxau::::res://Player.tscn<>uid://cx1qsqa4qwsus::::res://Assets/Parallax/parallax-00.png<>uid://d02l7nnnfajd3::::res://Assets/Parallax/parallax-01.png<>uid://cqgs3aseyvj8m::::res://Assets/Parallax/parallax-02.png<>uid://cvngflsps17db::::res://Assets/Parallax/parallax-03.png<>uid://owlwdggvbxt3::::res://Assets/Parallax/parallax-04.png<>uid://cbmb5cipyhb2u::::res://Assets/Terrain/Terrain (16x16).png
 pared.tscn::PackedScene::6244014741261556879::1741896442::0::1::::<><>::uid://cmylef2rdgi2n::::res://Assets/Terrain/pared.png
-Player.gd::GDScript::-1::1741898515::0::1::::<>CharacterBody2D<>::
-Player.tscn::PackedScene::8391120102112656048::1741898421::0::1::::<><>::res://Player.gd<>uid://b0fkypq6l6nb1::::res://Assets/Main Characters/Virtual Guy.png
-wall.tscn::PackedScene::5302420750300802713::1741898421::0::1::::<><>::uid://bhiaj522roiwc::::res://Assets/Terrain/piso.png
+Player.gd::GDScript::-1::1741899166::0::1::::<>CharacterBody2D<>::
+Player.tscn::PackedScene::8391120102112656048::1742065359::0::1::::<><>::uid://dm86nhwr0sf48::::res://Player.gd<>uid://b0fkypq6l6nb1::::res://Assets/Main Characters/Virtual Guy.png
+wall.tscn::PackedScene::5302420750300802713::1741899167::0::1::::<><>::uid://bhiaj522roiwc::::res://Assets/Terrain/piso.png
 ::res://Assets/::1741871938
 20 Enemies.png::CompressedTexture2D::8051730273178817541::1741871897::1741871938::1::::<><>::
 a.jpg::CompressedTexture2D::6033798526018778579::1741369488::1741369492::1::::<><>::
@@ -150,9 +150,9 @@ Idle 1 (44x26).png::CompressedTexture2D::1952805019411460131::1741871897::174187
 Idle 2 (44x26).png::CompressedTexture2D::971883304093946852::1741871897::1741871938::1::::<><>::
 Spikes in (44x26).png::CompressedTexture2D::7629887645090000208::1741871897::1741871938::1::::<><>::
 Spikes out (44x26).png::CompressedTexture2D::108418216536088266::1741871897::1741871938::1::::<><>::
-::res://Assets/Fonts/::1741871937
-COMICATE.TTF::FontFile::20600787208782802::1741871897::1741871937::1::::<><>::
-NokiaCellphoneFC.ttf::FontFile::2196779254221880365::1741871897::1741871937::1::::<><>::
+::res://Assets/Fonts/::1742065359
+COMICATE.TTF::FontFile::20600787208782802::1741871897::1742065406::1::::<><>::
+NokiaCellphoneFC.ttf::FontFile::2196779254221880365::1741871897::1742065406::1::::<><>::
 ::res://Assets/Items/::1741871897
 ::res://Assets/Items/Boxes/::1741871897
 ::res://Assets/Items/Boxes/Box1/::1741871938
