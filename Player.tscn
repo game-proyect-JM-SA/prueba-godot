@@ -340,7 +340,7 @@ animations = [{
 }]
 
 [sub_resource type="RectangleShape2D" id="1"]
-size = Vector2(11.0461, 11.3266)
+size = Vector2(11.0461, 12)
 
 [node name="Player" type="CharacterBody2D"]
 script = ExtResource("1")
@@ -353,8 +353,9 @@ sprite_frames = SubResource("SpriteFrames_fvoib")
 animation = &"walk"
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]
-position = Vector2(5.477, -3.33672)
+position = Vector2(5.477, -5)
 shape = SubResource("1")
+one_way_collision_margin = 22.5
 
 [node name="Camera2D" type="Camera2D" parent="."]
 position_smoothing_enabled = true

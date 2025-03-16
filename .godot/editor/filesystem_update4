@@ -1,5 +1,9 @@
 res://default_env.tres
 res://mundo.tscn
+res://Enemy.gd
 res://Player.tscn
 res://wall.tscn
-res://main.tscn
+res://Enemy.tscn
+res://Player.gd
+res://ladder.gd
+res://node_2d.tscn
