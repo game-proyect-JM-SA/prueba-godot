@@ -30,8 +30,7 @@ func _physics_process(delta):
 		velocity.y = JUMP_FORCE
 
 	# Cambiar animación según el estado
-	if not is_on_floor():
-		sprite.play("jump")  # Animación de salto
+	
 	else:
 		sprite.play("walk")  # Animación de caminar
 

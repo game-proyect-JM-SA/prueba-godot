@@ -1,6 +1,26 @@
-[gd_scene load_steps=29 format=3 uid="uid://q6axjafertnn"]
+[gd_scene load_steps=34 format=3 uid="uid://q6axjafertnn"]
 
 [ext_resource type="Texture2D" uid="uid://qh4778c8molj" path="res://Assets/Enemies/AngryPig/angryPig.png" id="1_4kr3s"]
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_tt7e2"]
+atlas = ExtResource("1_4kr3s")
+region = Rect2(144, 120, 36, 30)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_s7bn3"]
+atlas = ExtResource("1_4kr3s")
+region = Rect2(180, 120, 36, 30)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_2hac7"]
+atlas = ExtResource("1_4kr3s")
+region = Rect2(216, 120, 36, 30)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_e6d4v"]
+atlas = ExtResource("1_4kr3s")
+region = Rect2(252, 120, 36, 30)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_qp131"]
+atlas = ExtResource("1_4kr3s")
+region = Rect2(288, 120, 36, 30)
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_8h0uu"]
 atlas = ExtResource("1_4kr3s")
@@ -106,6 +126,26 @@ region = Rect2(216, 60, 36, 30)
 animations = [{
 "frames": [{
 "duration": 1.0,
+"texture": SubResource("AtlasTexture_tt7e2")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_s7bn3")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_2hac7")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_e6d4v")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_qp131")
+}],
+"loop": true,
+"name": &"hit",
+"speed": 12.0
+}, {
+"frames": [{
+"duration": 1.0,
 "texture": SubResource("AtlasTexture_8h0uu")
 }, {
 "duration": 1.0,
@@ -200,8 +240,8 @@ texture_filter = 1
 position = Vector2(4.76837e-07, -9.53674e-07)
 scale = Vector2(0.666667, 0.666667)
 sprite_frames = SubResource("SpriteFrames_d30ru")
-animation = &"idle"
-frame_progress = 0.226153
+animation = &"hit"
+frame_progress = 0.392137
 
 [node name="Hitbox" type="CollisionShape2D" parent="."]
 position = Vector2(0, 1)

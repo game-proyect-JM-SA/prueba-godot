@@ -1,14 +1,14 @@
 [gd_scene load_steps=3 format=3 uid="uid://dolrcj3odqrpl"]
 
 [ext_resource type="Texture2D" uid="uid://b5crxbiom1nfk" path="res://Assets/Parallax/ladder.png" id="1_uddq4"]
-[ext_resource type="Script" path="res://ladder.gd" id="2_3dtr3"]
+[ext_resource type="Script" uid="uid://bk6ill8mkrd45" path="res://ladder.gd" id="2_3dtr3"]
 
 [node name="Node2D" type="Node2D"]
 
 [node name="Ladder" type="Sprite2D" parent="."]
 texture_filter = 1
-position = Vector2(257, 127)
-rotation = 3.14159
-scale = Vector2(1, 0.90625)
+position = Vector2(178, 94)
+rotation = 4.71238
+scale = Vector2(1.29483, 0.906249)
 texture = ExtResource("1_uddq4")
 script = ExtResource("2_3dtr3")

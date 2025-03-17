@@ -54,7 +54,7 @@ func _physics_process(delta):
 		wall_jumping = true
 		velocity.y = WALL_JUMP_FORCE_Y
 		velocity.x = WALL_JUMP_FORCE_X * -on_wall_side
-		sprite.play("wall_jump")
+		sprite.play("wall")
 		await get_tree().create_timer(0.15).timeout
 		wall_jumping = false
 
